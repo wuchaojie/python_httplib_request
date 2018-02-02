@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xml:lang="zh-cn">
+     那是一辆<emphasis>卡车</emphasis>。 
+     那是<emphasis level="strong">一辆</emphasis>卡车。 
+    那是<emphasis level="none">一辆</emphasis>卡车。 
+       那是<emphasis level="reduced">一辆</emphasis>卡车。
+</speak> 
+ 

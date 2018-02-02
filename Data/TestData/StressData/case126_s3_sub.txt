@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<speak version="1.0" xml:lang="zh-cn"> 
+大多数人认为<sub alias="萨斯">SARS</sub>今年冬天不会来。 
+</speak>

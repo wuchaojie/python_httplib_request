@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xml:lang="zh-cn">
+     <domain name="common">北京今天天气怎么样</domain>
+     <domain name="weather">今天天气晴，最高气2摄氏度</domain>
+</speak> 

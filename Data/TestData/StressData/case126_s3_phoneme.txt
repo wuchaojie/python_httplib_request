@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<speak version="1.0" xml:lang="zh-cn"> 
+    <phoneme alphabet="py" ph="zha1">查</phoneme>良镛 
+    <phoneme alphabet="py" ph="zha1 liang2yong1">查良镛</phoneme>先生 
+    Next station is <say-as interpret-as="phoneme" format="py">di4 tan2</say-as> 
+</speak>

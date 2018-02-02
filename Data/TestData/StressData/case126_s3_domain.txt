@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xml:lang="zh-cn">
+     <domain name="common">北京今天天气怎么样</domain>
+</speak> 

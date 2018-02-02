@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<speak version="1.0" xml:lang="zh-cn"> 
+    <sentence> 
+        <phrase>沈阳市<word>长春</word>药店</phrase> 
+        <phrase>发生一起火灾</phrase> 
+    </sentence> 
+</speak>

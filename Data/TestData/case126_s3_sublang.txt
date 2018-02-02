@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<speak version="1.0" xml:lang="en-US"> 
+    <paragraph>English String</paragraph> 
+    <paragraph xml:lang="ja">劉国梁のプロフィール</paragraph> 
+    <paragraph xml:lang="zh-CN">中国</paragraph> 
+</speak>

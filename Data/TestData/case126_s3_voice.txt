@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xml:lang="en-US">
+     <voice gender="male"> the first man </voice>
+     <voice gender="male" variant="2"> the second man </voice>
+     <voice name="Donna"> David </voice>
+     <voice xml:lang="zh-CN" gender="female">
+      一个任意中文女声音色 
+      </voice>
+</speak> 

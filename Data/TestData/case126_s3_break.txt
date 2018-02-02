@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<speak version="1.0" xml:lang="zh-cn"> 
+停顿一下，然后再停顿<break time="500ms"/>500毫秒。
+    停顿一下，然后再停顿<break time="800ms"/>800毫秒。 
+    停顿一下，然后再停顿<break time="1000ms"/>1000毫秒。 
+</speak>

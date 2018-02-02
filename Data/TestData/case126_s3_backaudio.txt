@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<speak version="1.0" xml:lang="zh-cn"> 
+    <backaudio src="prompt.wav">您好，这里是客户服务中心。</backaudio> 
+    <backaudio src="@永远的爱">您好，这里是客户服务中心。</backaudio> 
+    <backaudio src="#1">您好，这里是客户服务中心。</backaudio> 
+</speak>

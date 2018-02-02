@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xml:lang="zh-cn">  
+  需要合成的文本
+</speak>

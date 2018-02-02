@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xml:lang="zh-cn">
+今年冬天不会来。
+<prosody pitch="x-low">今年冬天不会来。</prosody>
+<prosody pitch="low">今年冬天不会来。</prosody>
+<prosody pitch="medium">今年冬天不会来。</prosody>
+<prosody pitch="high">今年冬天不会来。</prosody>
+<prosody pitch="x-high">今年冬天不会来。</prosody>
+<prosody pitch="default">今年冬天不会来。</prosody>
+</speak>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xml:lang="zh-cn">
+<say-as interpret-as="number" format="cardinal"> 123 </say-as>one hundred and twenty three
+我们一共有<say-as interpret-as="number" format="cardinal"> 13</say-as>个人：十三 
+<say-as interpret-as="letters">IBM</say-as>: i  bee am
+<say-as interpret-as="words">ASCII</say-as>: askie
+<say-as interpret-as="number" format="ordinal">5</say-as> : fifth
+<say-as interpret-as="number" format="telegram"> 123 </say-as> : one two three
+我住在<say-as interpret-as="number" format="telegram">412</say-as>房间：四幺二
+双方比分是<say-as interpret-as="number" format="score"> 3:1</say-as>：三比一
+取其中的<say-as interpret-as="number" format="fraction">1/2</say-as>：二分之一
+<say-as interpret-as="number" format="telephone">123-456-7890</say-as>
+今天是<say-as interpret-as="date" format="ymd">2003/7/3</say-as>
+今天是<say-as interpret-as="date" format="mdy">7/3/2003</say-as>
+今天是<say-as interpret-as="date" format="dmy">7/3/2003</say-as>
+今天是<say-as interpret-as="date" format="ym">2003/7</say-as>
+今天是<say-as interpret-as="date" format="my">7/97</say-as>
+今天是<say-as interpret-as="date" format="md">12/1</say-as>
+今天是<say-as interpret-as="date" format="dm">7/3</say-as>
+今年是<say-as interpret-as="date" format="y">2013</say-as>
+今月是<say-as interpret-as="date" format="m">04</say-as>
+今日是<say-as interpret-as="date" format="d">08</say-as>
+会议<say-as interpret-as="time" format="hm">14:30</say-as>开始
+会议<say-as interpret-as="time" format="hms">14:30:09</say-as>开始
+会议<say-as interpret-as="time" format="h">14</say-as>开始
+会议<say-as interpret-as="time" format="m">30</say-as>开始
+会议<say-as interpret-as="time" format="s">4</say-as>开始
+记录为<say-as interpret-as="time2" format="ms">14'30</say-as>
+记录为<say-as interpret-as="time2" format="msms">14'30"12</say-as>
+记录为<say-as interpret-as="time2" format="sms">14"30</say-as>
+Next station is <say-as interpret-as="phoneme" format="py">di4 tan2</say-as>
+<say-as interpret-as="vxml:currency">8</say-as>8元
+公式为<say-as interpret-as="math">a＋486-1014-30 2003/12/1*(-10291)</say-as>
+邮箱是<say-as interpret-as="net" format="email">abc@abc.com</say-as>
+网址是<say-as interpret-as="net" format="uri"> http://www.sinovoice.com.cn </say-as>
+</speak> 
